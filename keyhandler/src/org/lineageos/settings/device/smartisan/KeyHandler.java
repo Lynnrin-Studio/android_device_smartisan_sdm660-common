@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2019 The MoKee Open Source Project
+ * Copyright (C) 2021 The LineageOS Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -14,7 +15,7 @@
  * limitations under the License.
  */
 
-package org.mokee.settings.device.smartisan;
+package org.lineageos.settings.device.smartisan;
 
 import android.content.Context;
 import android.hardware.input.InputManager;
@@ -33,9 +34,9 @@ import android.view.WindowManagerGlobal;
 
 import com.android.internal.os.DeviceKeyHandler;
 
-import mokee.providers.MKSettings;
+import lineageos.providers.LineageSettings;
 
-import org.mokee.internal.util.FileUtils;
+import org.lineageos.internal.util.FileUtils;
 
 public class KeyHandler implements DeviceKeyHandler {
 

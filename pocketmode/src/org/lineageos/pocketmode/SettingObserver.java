@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package org.mokee.pocketmode;
+package org.lineageos.pocketmode;
 
 import android.database.ContentObserver;
 import android.util.Log;
 
-import mokee.providers.MKSettings;
+import lineageos.providers.MKSettings;
 
 class SettingObserver extends ContentObserver {
 
