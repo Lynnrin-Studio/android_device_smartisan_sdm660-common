@@ -17,7 +17,6 @@ VNDK_SP_LIBRARIES := \
     libbacktrace \
     libbase \
     libbcinfo \
-    libbinderthreadstate \
     libblas \
     libc++ \
     libcompiler_rt \
