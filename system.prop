@@ -302,3 +302,6 @@ persist.fw.update.allowed=0
 
 # CA config
 ro.radio.ca.enable=true
+
+# DPI
+ro.sf.lcd_density=400
